@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "gateway",
+    "packageName": "com.hbins.gateway",
+    "packageFolder": "com/hbins/gateway",
+    "serverPort": 8010,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "zh-cn",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "Yjc0M2I2NmFmMWE4OGVmZDA4MTJhMGZiNzJjZDVmMWMwMzA5MDk2YzM5MTM3YzkzNDY3YTkxZTU2NDVhZGU3ODBhYTFiMzJmYTBhNWI2YzliZmIyYTEzYjFhMjEzMzg0NDViMzgzNGRiYWIwNDEzYzgyNTBiNWNmOWI2ZGUxNjE=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "hbsinosoft",
+  "repository-name": "hbins-platform-gateway"
+}
